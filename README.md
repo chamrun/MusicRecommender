@@ -1,6 +1,5 @@
 # MusicRecommender
 
-This is a python code to suggest a music genre based on age and gender.
-It can also export model graph and save and load models.
-
-P.S. This is my "Hello Machine Learning" :)
+This is the python code for my Hello Machine Learning.
+It suggests a music genre based on age and gender.
+It can also export model graphs and save and load models.
